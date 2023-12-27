@@ -6,6 +6,6 @@ class ComposerTest < Formula
     version "0.0.1"
   
     def install
-      bin.install "composer-test"
+      bin.install "composer"
     end
   end
